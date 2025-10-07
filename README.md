@@ -11,7 +11,7 @@ I approach every project like I do a race: **fast, focused, and always striving 
 
 ---
 
-## 🚗 About Me
+##  About Me
 
 - **From the Track to the Terminal:** Motorsport taught me how to stay calm and strategic under pressure — perfect for tight coding deadlines and complex problem-solving.  
 - **Location:** Brackenfell, Western Cape, South Africa 🌍  
@@ -20,7 +20,7 @@ I approach every project like I do a race: **fast, focused, and always striving 
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
 I’m currently seeking a **2026 software engineering internship** where I can apply my technical and problem-solving skills in a collaborative environment.  
 I’m especially interested in roles involving:
@@ -42,7 +42,7 @@ I’m especially interested in roles involving:
 
 ---
 
-## 🛠️ Work Experience
+##  Work Experience
 
 ### **Co-Owner & Sales/Operations Manager @ W&W Motors** (2024–Present)  
 Oversee vehicle sourcing, sales, and client communication. Conduct market research, manage vehicle listings, and maintain strong customer relationships — applying data-driven decision-making and business strategy similar to debugging and optimization in coding.  
@@ -100,11 +100,11 @@ Subjects: Afrikaans, English, Mathematics, Life Orientation, Business Studies, C
 
 ## 📄 Curriculum Vitae  
 
-[📥 **Download My CV (PDF)**](https://github.com/Bianca-Long/Bianca-Long/raw/main/Bianca%20Long%20CV.pdf)
+[**Download My CV (PDF)**](https://github.com/Bianca-Long/Bianca-Long/raw/main/Bianca%20Long%20CV.pdf)
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 - **Email:** [longbianca99@gmail.com](mailto:longbianca99@gmail.com)  
 - **Phone:** 072 262 6892  
