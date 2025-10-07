@@ -42,7 +42,7 @@ I’m especially interested in roles involving:
 
 ---
 
-##  Work Experience
+## 🛠️ Work Experience
 
 ### **Co-Owner & Sales/Operations Manager @ W&W Motors** (2024–Present)  
 Oversee vehicle sourcing, sales, and client communication. Conduct market research, manage vehicle listings, and maintain strong customer relationships — applying data-driven decision-making and business strategy similar to debugging and optimization in coding.  
@@ -104,7 +104,7 @@ Subjects: Afrikaans, English, Mathematics, Life Orientation, Business Studies, C
 
 ---
 
-##  Let's Connect!
+## 📫 Let's Connect!
 
 - **Email:** [longbianca99@gmail.com](mailto:longbianca99@gmail.com)  
 - **Phone:** 072 262 6892  
