@@ -1,18 +1,18 @@
 # 🏎️ Bianca Long: Accelerating Code & Conquering Tracks 🚀
 
-Hey there! I'm Bianca Long, a 3rd-year Bachelor of Computing student specializing in Software Engineering at Belgium Campus iTversity. By day, I'm a hard-working student; by night (or weekends), I'm tearing up the quarter-mile track in motorsport races. Started racing at 9, and it's fueled my drive for precision, speed, and resilience—skills I bring straight to my projects. Think of me as the intern who works like she races: fast, focused, and always aiming for the finish line first! 🏁
+Hey there! I'm Bianca Long, a 3rd-year Bachelor of Computing student specializing in Software Engineering at Belgium Campus iTversity. By day, I'm a hard-working student; by night (or weekends), I'm tearing up the quarter-mile track in motorsport races. Started racing at 9, and it's fueled my drive for precision, speed, and resilience— skills I bring straight to my projects. Think of me as the intern who works like she races: fast, focused, and always aiming for the finish line first! 🏁
 
 ## 🚗 About Me
-- **From the Track to the Terminal**: Motorsport has taught me to thrive under pressure, just like handling tight deadlines in code sprints. I'm all about innovation, ethics, and teamwork—whether it's collaborating on Git repos or coordinating pit stops.
+- **From the Track to the Terminal**: Motorsport has taught me to thrive under pressure, just like handling tight deadlines in code sprints. I'm all about innovation, ethics, and teamwork— whether it is collaborating on Git repos or coordinating pit stops.
 - **Location**: Brackenfell, Western Cape, South Africa 🌍
-- **Fun Fact**: I co-own a car sales business (W&W Motors) and run a puppy breeding venture (Naudefontein Worshondjies). Who knew selling cars and raising Dachshunds could sharpen my business acumen for tech?
+- **Fun Fact**: I co-own a car sales business (W&W Motors) and run a puppy breeding venture (Naudeesfontein Worshondjies). Who knew selling cars and raising Dachshunds could sharpen my business acumen for tech?
 - **Passions**: Racing, digital marketing, and building client relationships.
 
 ## 💻 Skills & Tech Stack
 - **Programming Languages**: Python 🐍, C#, JavaScript, Java, HTML, CSS
 - **Databases**: SQL
 - **Tools**: Git/GitHub for version control, Microsoft Office Suite, Canva for digital magic.
-- **Soft Skills**: Leadership, problem-solving, adaptability (quick learner curve!), and thriving in high-pressure environments. Plus, excellent customer service from my business ventures.
+- **Soft Skills**: Leadership, problem-solving, adaptability (quick learner curve!), team collaboration and thriving in high-pressure environments. Plus, excellent customer service from my business ventures.
 
 ## 🛠️ Work Experience
 - **Co-Owner & Sales/Operations Manager @ W&W Motors** (2024–Present)  
@@ -31,8 +31,11 @@ Hey there! I'm Bianca Long, a 3rd-year Bachelor of Computing student specializin
   Subjects: Afrikaans, English, Math, Life Orientation, Business Studies, CAT, Physical Sciences. Graduated with a well-rounded base for tech and beyond.
 
 ## 💻 Projects
-
-
+Project 1 -Student management system -group project - https://github.com/BeardedSeal77/StudentManagement.git
+Project 2 -Machine Learning project 1 -group project - https://github.com/Trenti6/MLG382_Project1.git
+Project 3 -Machine Learning project 2 -group project - https://github.com/DemicaSmit/Project2.git
+Project 4 -Java Web Application -Registration and Login System - https://github.com/Lilize27/PRG381_Milestone1_JavaWebApp.git
+Project 5 -Java Desktop Application -Library Management System - https://github.com/Lilize27/PRG381_Milestone2_JavaDesktop.git
 
 ## 📫 Let's Connect!
 - **Email**: longbianca99@gmail.com  
