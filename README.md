@@ -1,52 +1,116 @@
 # 🏎️ Bianca Long: Accelerating Code & Conquering Tracks 🚀
 
-Hey there! I'm Bianca Long, a 3rd-year Bachelor of Computing student specializing in Software Engineering at Belgium Campus iTversity. By day, I'm a hard-working student; by night (or weekends), I'm tearing up the quarter-mile track in motorsport races. Started racing at 9, and it's fueled my drive for precision, speed, and resilience— skills I bring straight to my projects. Think of me as the intern who works like she races: fast, focused, and always aiming for the finish line first! 🏁
+Hey there! I'm **Bianca Long**, a 3rd-year **Bachelor of Computing** student specializing in **Software Engineering** at **Belgium Campus iTversity**.  
+By day, I'm a determined developer in training; by night (or weekends), I'm racing down the quarter-mile track — a passion I’ve had since I was nine years old. Motorsport has sharpened my precision, resilience, and ability to perform under pressure — the same qualities I bring to my code.  
+
+I approach every project like I do a race: **fast, focused, and always striving for excellence.** 🏁
+
+---
 
 ## 🚗 About Me
-- **From the Track to the Terminal**: Motorsport has taught me to thrive under pressure, just like handling tight deadlines in code sprints. I'm all about innovation, ethics, and teamwork— whether it is collaborating on Git repos or coordinating pit stops.
-- **Location**: Brackenfell, Western Cape, South Africa 🌍
-- **Fun Fact**: I co-own a car sales business (W&W Motors) and run a puppy breeding venture (Naudeesfontein Worshondjies). Who knew selling cars and raising Dachshunds could sharpen my business acumen for tech?
-- **Passions**: Racing, digital marketing, and building client relationships.
+
+- **From the Track to the Terminal:** Motorsport taught me how to stay calm and strategic under pressure — perfect for tight coding deadlines and complex problem-solving.  
+- **Location:** Brackenfell, Western Cape, South Africa 🌍  
+- **Fun Fact:** I co-own a car dealership (**W&W Motors**) and run a puppy breeding venture (**Naudeesfontein Worshondjies**). Managing these businesses has boosted my leadership, communication, and customer service skills — all valuable in tech and teamwork.  
+- **Passions:** Software development, motorsport, digital marketing, and building meaningful client relationships.  
+
+---
+
+## 🎯 Career Interests
+
+I’m currently seeking a **2026 software engineering internship** where I can apply my technical and problem-solving skills in a collaborative environment.  
+I’m especially interested in roles involving:
+- Backend development (**C#**, **Python**, or **Java**)  
+- Web and API development  
+- Machine Learning or data-driven solutions  
+- Full-stack development and system design  
+
+---
 
 ## 💻 Skills & Tech Stack
-- **Programming Languages**: Python 🐍, C#, JavaScript, Java, HTML, CSS
-- **Databases**: SQL
-- **Tools**: Git/GitHub for version control, Microsoft Office Suite, Canva for digital magic.
-- **Soft Skills**: Leadership, problem-solving, adaptability (quick learner curve!), team collaboration and thriving in high-pressure environments. Plus, excellent customer service from my business ventures.
+
+| Category | Tools / Languages |
+|-----------|------------------|
+| **Languages** | Python 🐍, C#, JavaScript, Java, HTML, CSS |
+| **Databases** | SQL |
+| **Frameworks/Tools** | Git & GitHub, Canva, Microsoft Office Suite |
+| **Soft Skills** | Leadership, problem-solving, adaptability, teamwork, time management, and customer communication |
+
+---
 
 ## 🛠️ Work Experience
-- **Co-Owner & Sales/Operations Manager @ W&W Motors** (2024–Present)  
-  Overseeing vehicle sales, marketing, and admin. Sourced cars, closed deals, and built client relationships—applying market research like debugging code.  
-- **Owner & Breeder/Business Manager @ Naudefontein Worshondjies** (2022–Present)  
-  Running a purebred puppy business: breeding, marketing, client communication. (Yes, I manage vaccinations and contracts—attention to detail is key!)
-   https://www.facebook.com/share/1B2eWj388J/?mibextid=wwXIfr
-- **Part-Time Operations Assistant @ Alora Collective Venue** (2022–Present) 
-  Handling events, bookings, social media, and customer service. Coordinated logistics under pressure, ensuring smooth executions every time.
-  https://www.facebook.com/share/17dEHyCs2b/?mibextid=wwXIfr
+
+### **Co-Owner & Sales/Operations Manager @ W&W Motors** (2024–Present)  
+Oversee vehicle sourcing, sales, and client communication. Conduct market research, manage vehicle listings, and maintain strong customer relationships — applying data-driven decision-making and business strategy similar to debugging and optimization in coding.  
+
+### **Owner & Breeder/Business Manager @ Naudeesfontein Worshondjies** (2022–Present)  
+Manage all aspects of a registered puppy breeding business — from operations and marketing to client contracts and record-keeping. Built a strong online presence through social media campaigns.  
+🔗 [View Facebook Page](https://www.facebook.com/share/1B2eWj388J/?mibextid=wwXIfr)
+
+### **Part-Time Operations Assistant @ Alora Collective Venue** (2022–Present)  
+Support event operations, manage bookings, and handle social media marketing. Responsible for logistics, admin, and client support under pressure.  
+🔗 [View Facebook Page](https://www.facebook.com/share/17dEHyCs2b/?mibextid=wwXIfr)
+
+---
 
 ## 🎓 Education
-- **Bachelor of Computing (Software Engineering)** @ Belgium Campus iTversity (2023–2026)  
-  Building a strong foundation in development, with a focus on problem-solving and innovation.  
-- **National Senior Certificate (Matric)** @ Hoërskool Hoogenhout (2022)  
-  Subjects: Afrikaans, English, Math, Life Orientation, Business Studies, CAT, Physical Sciences. Graduated with a well-rounded base for tech and beyond.
 
-## 💻 Projects
-Project 1 -Student management system -group project - https://github.com/BeardedSeal77/StudentManagement.git
+### **Bachelor of Computing (Software Engineering)**  
+**Belgium Campus iTversity** | 2023–2026  
+Focused on software development, problem-solving, and innovation. Experienced with team-based projects, Git collaboration, and research-driven development.
 
-Project 2 -Machine Learning project 1 -group project - https://github.com/Trenti6/MLG382_Project1.git
+### **National Senior Certificate (Matric)**  
+**Hoërskool Hoogenhout** | 2022  
+Subjects: Afrikaans, English, Mathematics, Life Orientation, Business Studies, CAT, and Physical Sciences.
 
-Project 3 -Machine Learning project 2 -group project - https://github.com/DemicaSmit/Project2.git
+---
 
-Project 4 -Java Web Application -Registration and Login System - https://github.com/Lilize27/PRG381_Milestone1_JavaWebApp.git
+## 💻 Featured Projects
 
-Project 5 -Java Desktop Application -Library Management System - https://github.com/Lilize27/PRG381_Milestone2_JavaDesktop.git
+- **Student Management System** – Group Project  
+  *Technologies:* C#, .NET, SQL  
+  Role: Implemented user management features and CRUD operations.  
+  [🔗 View Project](https://github.com/BeardedSeal77/StudentManagement.git)
+
+- **Machine Learning Project 1** – Group Project  
+  *Technologies:* Python, Pandas, Scikit-learn  
+  Role: Data cleaning, preprocessing, and model evaluation.  
+  [🔗 View Project](https://github.com/Trenti6/MLG382_Project1.git)
+
+- **Machine Learning Project 2** – Group Project  
+  *Technologies:* Python, TensorFlow, Jupyter  
+  Role: Model training and result analysis.  
+  [🔗 View Project](https://github.com/DemicaSmit/Project2.git)
+
+- **Java Web Application: Registration & Login System**  
+  *Technologies:* Java, JSP, MySQL  
+  Role: Developed an authentication system and session management.  
+  [🔗 View Project](https://github.com/Lilize27/PRG381_Milestone1_JavaWebApp.git)
+
+- **Java Desktop Application: Library Management System**  
+  *Technologies:* Java, JavaDB, Swing (GUI)  
+  Role: Designed and implemented a feedback system with MVC structure.  
+  [🔗 View Project](https://github.com/Lilize27/PRG381_Milestone2_JavaDesktop.git)
+
+---
+
+## 📄 Curriculum Vitae  
+
+[📥 **Download My CV (PDF)**](https://github.com/Bianca-Long/Bianca-Long/raw/main/Bianca%20Long%20CV.pdf)
+
+---
 
 ## 📫 Let's Connect!
-- **Email**: longbianca99@gmail.com  
-- **Phone**: 072 262 6892  
-- **LinkedIn**: https://www.linkedin.com/in/bianca-long-3a220b317/
-- **GitHub**: You're already here! Check my repos for projects.
 
-References available on request.
+- **Email:** [longbianca99@gmail.com](mailto:longbianca99@gmail.com)  
+- **Phone:** 072 262 6892  
+- **LinkedIn:** [linkedin.com/in/bianca-long-3a220b317](https://www.linkedin.com/in/bianca-long-3a220b317/)  
+- **GitHub:** You’re already here — explore my repositories!  
 
-If you're into code that races ahead or stories from the track, hit me up! Let's collaborate on something epic. 🏆  
+---
+
+## 🏆 Closing Note  
+
+I’m passionate about building creative, efficient, and ethical solutions — whether that’s writing clean code or fine-tuning engines.  
+I’m eager to bring my **discipline, adaptability, and problem-solving mindset** to a forward-thinking development team.  
+Let’s connect and build something impactful together! 🚀  
