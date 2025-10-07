@@ -32,9 +32,13 @@ Hey there! I'm Bianca Long, a 3rd-year Bachelor of Computing student specializin
 
 ## 💻 Projects
 Project 1 -Student management system -group project - https://github.com/BeardedSeal77/StudentManagement.git
+
 Project 2 -Machine Learning project 1 -group project - https://github.com/Trenti6/MLG382_Project1.git
+
 Project 3 -Machine Learning project 2 -group project - https://github.com/DemicaSmit/Project2.git
+
 Project 4 -Java Web Application -Registration and Login System - https://github.com/Lilize27/PRG381_Milestone1_JavaWebApp.git
+
 Project 5 -Java Desktop Application -Library Management System - https://github.com/Lilize27/PRG381_Milestone2_JavaDesktop.git
 
 ## 📫 Let's Connect!
